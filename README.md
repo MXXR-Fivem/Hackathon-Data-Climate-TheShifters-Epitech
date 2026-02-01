@@ -1,6 +1,6 @@
 ## 📜 License
 
-This code is published **for demonstration purposes only** as part of the hackathon.
+This code is published **for demonstration purposes only** as part of the hackathon.\
 © 2026 — **All rights reserved**
 
 # 🌍 Eco-Go — Environmental Action Comparator for Municipalities
