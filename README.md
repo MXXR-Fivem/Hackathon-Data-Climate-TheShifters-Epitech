@@ -1,12 +1,12 @@
-## 📜 License
-
-This code is published **for demonstration purposes only** as part of the hackathon.\
-© 2026 — **All rights reserved**
-
 # 🌍 Eco-Go — Environmental Action Comparator for Municipalities
 
 This project was created for the **Data & Climat** hackathon (Epitech × The Shifters) ahead of the 2026 municipal elections.
 Goal: **measure, visualize, and compare** environmental actions of French municipalities (mobility, energy, sobriety, biodiversity, waste, etc.) using public data, and make them **easy to understand for citizens** through a clear and accessible interface.
+
+## 📜 License
+
+This code is published **for demonstration purposes only** as part of the hackathon.\
+© 2026 — **All rights reserved**
 
 ## 🎯 Hackathon Objectives
 
