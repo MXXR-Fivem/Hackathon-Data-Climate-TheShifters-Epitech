@@ -65,6 +65,14 @@ Indicators primarily come from open data sources (e.g., Île‑de‑France open 
 
 ## 🔎 Preview
 
+### Try it ! Download expo-go application and scan the QR code bellow
+
+![screen](./assets/eco-go.png)
+
+### Or, just download expo-go application and open the link bellow in your web browser
+
+```exp://vm5p2de-anonymous-8081.exp.direct```
+
 ![screen](./assets/screen1.png)
 ![screen](./assets/screen2.png)
 ![screen](./assets/screen3.png)
