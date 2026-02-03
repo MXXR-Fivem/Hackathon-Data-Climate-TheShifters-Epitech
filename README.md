@@ -20,14 +20,14 @@ This code is published **for demonstration purposes only** as part of the hackat
 Project designed and developed by:
 
 - **Simon Slack**\
-    Email pro : simonjspslack@gmail.com\
-    LinkedIn : https://linkedin.com/in/simon-slack\
+    Email pro : simonjspslack@gmail.com \
+    LinkedIn : https://linkedin.com/in/simon-slack \
     Github : https://github.com/Slacknsss
 - **Raphael Leger**\
     Github : https://github.com/zzKew
 - **Théo Busiris**\
-    Email pro : contact@busiristheo.com\
-    LinkedIn : https://linkedin.com/in/theobusiris\
+    Email pro : contact@busiristheo.com \
+    LinkedIn : https://linkedin.com/in/theobusiris \
     GitHub : https://github.com/MXXR-Fivem
 - **Jules Fischer**\
     LinkedIn : https://linkedin.com/in/jules-fischer-1471602a1/ \
