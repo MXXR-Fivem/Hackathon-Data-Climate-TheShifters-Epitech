@@ -21,17 +21,17 @@ Project designed and developed by:
 
 - **Simon Slack**\
     Email pro : simonjspslack@gmail.com\
-    LinkedIn : linkedin.com/in/simon-slack\
-    Github : github.com/Slacknsss
+    LinkedIn : https://linkedin.com/in/simon-slack\
+    Github : https://github.com/Slacknsss
 - **Raphael Leger**\
-    Github : github.com/zzKew
+    Github : https://github.com/zzKew
 - **Théo Busiris**\
     Email pro : contact@busiristheo.com\
-    LinkedIn : linkedin.com/in/theobusiris\
-    GitHub : github.com/MXXR-Fivem
+    LinkedIn : https://linkedin.com/in/theobusiris\
+    GitHub : https://github.com/MXXR-Fivem
 - **Jules Fischer**\
-    LinkedIn : linkedin.com/in/jules-fischer-1471602a1/\
-    Github : github.com/Jules-Epitech
+    LinkedIn : https://linkedin.com/in/jules-fischer-1471602a1/\
+    Github : https://github.com/Jules-Epitech
 
 ## ⚙️ Tech Stack
 
