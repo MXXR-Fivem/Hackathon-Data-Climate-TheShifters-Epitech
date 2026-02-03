@@ -30,7 +30,7 @@ Project designed and developed by:
     LinkedIn : https://linkedin.com/in/theobusiris\
     GitHub : https://github.com/MXXR-Fivem
 - **Jules Fischer**\
-    LinkedIn : https://linkedin.com/in/jules-fischer-1471602a1/\
+    LinkedIn : https://linkedin.com/in/jules-fischer-1471602a1/ \
     Github : https://github.com/Jules-Epitech
 
 ## ⚙️ Tech Stack
