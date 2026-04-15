@@ -67,11 +67,11 @@ Indicators primarily come from open data sources (e.g., Île‑de‑France open 
 
 ### Try it ! Download expo-go application and scan the QR code bellow
 
-![screen](./assets/eco-go.png)
-
+<img width="245" height="295" alt="image" src="https://github.com/user-attachments/assets/4d33dfd2-36aa-4e60-a381-cec1c707306d" />
+    
 ### Or, just download expo-go application and open the link bellow in your web browser
 
-```exp://vm5p2de-anonymous-8081.exp.direct```
+```exp://ehm51d8-anonymous-8081.exp.direct```
 
 ![screen](./assets/screen1.png)
 ![screen](./assets/screen2.png)
