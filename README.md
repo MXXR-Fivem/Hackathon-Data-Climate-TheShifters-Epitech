@@ -67,7 +67,7 @@ Indicators primarily come from open data sources (e.g., Île‑de‑France open 
 
 ### Try it ! Download expo-go application and scan the QR code bellow
 
-<img width="245" height="295" alt="image" src="https://github.com/user-attachments/assets/4d33dfd2-36aa-4e60-a381-cec1c707306d" />
+<img width="245" height="293" alt="image" src="https://github.com/user-attachments/assets/3f99db01-aa5c-450a-a462-4be45a40c792" />
     
 ### Or, just download expo-go application and open the link bellow in your web browser
 
